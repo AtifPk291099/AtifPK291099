@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">💻 Systems Engineer | Tech Explorer | Lifelong Learner</h3>
+<h3 align="center">💻 Systems Engineer | Tech Explorer | </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
