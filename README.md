@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
-<h3 align="center">💻 Systems Engineer | Tech Explorer | </h3>
+<h3 align="center">💻 Systems Administrator | Tech Explorer | </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation"/>
@@ -30,7 +30,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Systems+Engineer+at+Tata+Consultancy+Services;Active+Directory+%7C+Networking+%7C+Automation" alt="TCS Animation"/>
 </p>
 
-🔹 **Systems Engineer – Active Directory (2023–Present)**  
+🔹 **Systems Administrator L3 – Active Directory & Azure (2023–Present)**  
 🔹 **Network Administrator – Equifax (2022–2023)**  
 🔹 **System Administrator – L1 & L2 (2021–2022)**  
 
