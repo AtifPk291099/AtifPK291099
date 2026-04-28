@@ -16,7 +16,7 @@
 
 ## 🌟 About Me  
 
-👨‍💻 Systems Engineer at **Tata Consultancy Services (L3 Active Directory Services)**  
+👨‍💻 System Administrator at **Tata Consultancy Services (L3 Active Directory Services)**  
 🎓 Graduate in Computer Science from **Mumbai University**  
 🚀 Passionate about **automation, system design, and solving real-world problems**  
 📚 Certified in **Azure, Generative AI, Cybersecurity, Linux, Python, SQL, Java**  
